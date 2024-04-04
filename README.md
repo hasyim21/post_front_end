@@ -1,16 +1,5 @@
-# pos_front_end
+# POINT OF SALES
 
-A new Flutter project.
+![Mobile](https://github.com/hasyim21/post_front_end/assets/80388567/164e9f96-1752-44cd-8b03-52b023b07dbd)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Tablet](https://github.com/hasyim21/post_front_end/assets/80388567/72433f0f-e5d5-48ee-b6d4-14c9a76080a2)
